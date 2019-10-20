@@ -3,3 +3,4 @@ Ninja.png|nieKrzysztof
 Adolf Hitler.png|Józef Stalin
 Floppy Ball.png|Kawyn
 Proving Ground.png|Kawyn
+Test.png|Test
