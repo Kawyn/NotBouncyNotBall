@@ -1,6 +1,5 @@
-Essa.png|aaa 
-Ball Run.png|Kawyn
-Floppy Ball.png|Ball
-Arena Of Death.png|H4CK3R
-Proving Ground.png|Handsome Jack
-
+Ball Controll.png|Andrzej
+Ninja.png|nieKrzysztof
+Adolf Hitler.png|Józef Stalin
+Floppy Ball.png|Kawyn
+Proving Ground.png|Kawyn
